@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Logitech M220 Wireless Mouse Silent Mouse with 2.4GHz",
+      "price": 20,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 2,
+      "name": "Stationery: Desk computer desktop table and writing table",
+      "price": 45,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 3,
+      "name": "Computer chair home office chair comfortable",
+      "price": 60,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 4,
+      "name": "Acer/Acer Aspire3 A315-34 Quad-Core New Laptop",
+      "price": 55,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 5,
+      "name": "keyboard wired wireless quiet desktop computer",
+      "price": 120,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 6,
+      "name": "MEYA HOME Glass Coffee Mug Tea Cup",
+      "price": 15,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 7,
+      "name": "Universal Power Adapter Charger For Laptop",
+      "price": 100,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 8,
+      "name": "Wiresto Gaming Earphones In Ear Headphones Wired Earphones",
+      "price": 100,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 9,
+      "name": "Samsung Galaxy Tab A 8.0 inches 16GB ROM Wi-Fi only 1.5GB RAM",
+      "price": 70,
+      "photo": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 45,
+      "name": "vivo iQOO Neo 855 Smartphone 6GB 64GB",
+      "price": 100,
+      "photo": "https://picsum.photos/200/300"
+    }
+  ]
+}
